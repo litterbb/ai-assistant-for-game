@@ -1,0 +1,10 @@
+{
+    "name": "Demo Adventure Game",
+    "description": "เกมจำลองสำหรับทดสอบระบบ AI",
+    "available_actions": [
+        "attack",
+        "use_item",
+        "explore",
+        "flee"
+    ]
+}
